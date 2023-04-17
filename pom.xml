@@ -54,6 +54,10 @@
   </modules>
       
   <properties>
+   
+   <sonar.organization>harshavrdhnm</sonar.organization>
+   
+   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
             
     <aem.host>localhost</aem.host>
             
