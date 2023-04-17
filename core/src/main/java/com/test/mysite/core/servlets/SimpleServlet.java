@@ -54,4 +54,4 @@ public class SimpleServlet extends SlingSafeMethodsServlet {
         resp.getWriter().write("Title = " + resource.getValueMap().get(JcrConstants.JCR_TITLE));
     }
 }
-// Testing the cloud
+
