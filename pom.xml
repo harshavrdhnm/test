@@ -50,6 +50,9 @@
     <module>dispatcher</module>
             
     <module>ui.tests</module>
+   
+    <module>project-wknd</module>
+    <module>project-aemcore</module>
       
   </modules>
       
